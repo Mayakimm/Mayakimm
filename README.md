@@ -14,7 +14,6 @@ I’m proficient in:
 - **Languages & Frameworks:** Ruby on Rails, HTML, CSS, JavaScript
 - **Databases:** PostgreSQL, SQL
 - **Version Control:** Git, GitHub
-- **Learning thesedays:** Symfony, PHP 
 - **Design & Development:** UI/UX, Figma, Adobe Illustrator
   
 
