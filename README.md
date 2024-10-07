@@ -1,18 +1,14 @@
 # About Me
 
 Hi, I’m Maya! 👋 I’m currently living in France, originally from South Korea. 
-
-I have a diverse background as a co-founder, brand development specialist, and digital marketing expert.
-
-**Fun Fact 🥸:** 
-I won the 2024 Best Lunch Box Maker award in one of the biggest startups in Europe (though I’ve never actually worked there)!
+I have a diverse background as a co-founder, product development specialist, and digital marketing expert.
 
 ## 🌟 Tech and Tools
 
 I’m proficient in:
 
-- **Languages & Frameworks:** Ruby on Rails, HTML, CSS, JavaScript
-- **Databases:** PostgreSQL, SQL
+- **Languages & Frameworks:** Ruby on Rails, PHP, Symfony, HTML, CSS, JavaScript
+- **Databases:** PostgreSQL, SQL, Doctrine
 - **Version Control:** Git, GitHub
 - **Design & Development:** UI/UX, Figma, Adobe Illustrator
   
